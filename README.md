@@ -1,5 +1,5 @@
-# Lama Dev School Management Dashboard
-
+# School Management Dashboard
+This is the dashboard for the School Management System, this dashboard is aimed at providing the user appropriate data in visual form for better understanding.
 ## Getting Started
 
 First, run the development server:
@@ -22,5 +22,3 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)
